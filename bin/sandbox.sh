@@ -67,6 +67,8 @@ group :test, :development do
   gem 'bullet'
   gem 'pry-byebug'
   gem 'awesome_print'
+  gem 'debase', '~> 0.2.5.beta2'
+  gem 'ruby-debug-ide'
 end
 
 gem 'rack-cache'
@@ -85,6 +87,8 @@ group :test, :development do
   gem 'bullet'
   gem 'pry-byebug'
   gem 'awesome_print'
+  gem 'debase', '~> 0.2.5.beta2'
+  gem 'ruby-debug-ide'
 end
 
 # ExecJS runtime

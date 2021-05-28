@@ -45,6 +45,10 @@ group :test, :development do
   gem 'webdrivers', '~> 4.1'
   gem 'puma'
   gem 'ffaker'
+  gem 'bundler'
+  gem 'listen'
+  gem 'debase', '~> 0.2.5.beta2'
+  gem 'ruby-debug-ide'
 end
 
 gem 'solargraph', group: :development
